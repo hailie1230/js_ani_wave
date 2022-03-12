@@ -1,1 +1,1 @@
-# js_ani_wave
+# JavaScript - Animation Wave
